@@ -2,7 +2,7 @@
 
 > A smooth and interactive animated tab bar inspired by Apple's Mail app, built with React Native, Reanimated, and Expo.
 
-A free drop from **Motionary**. The whole flock lives at **https://motionary.dev**.
+A free drop from **Motionary**. The whole flock lives at **https://motionary.dev**. Related: [Mail Tab Bar](https://motionary.dev/animations/mail-tab-bar).
 
 [![Expo Animated Tab Bar Demo]](https://github.com/user-attachments/assets/70717148-faec-4976-bf16-2097faa267ad)
 
